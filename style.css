@@ -1,0 +1,42 @@
+.picture_flexbox{
+  display: flex;
+  height: 200px;
+  width: 200px;
+  flex-direction: column;
+  background-color: blue;
+  align-items: center;
+  float: left;  
+}
+
+.about_me_flexbox{
+  display: flex;
+  height: 700px;
+  width: 500px;
+  flex-direction: column;
+  background-color: gray;
+  float: left;
+  align-items: center;
+}
+
+
+.accomplishments_flexbox{
+  display: flex;
+  height: 700px;
+  width: 600px;
+  flex-direction: column;
+  background-color: lightseagreen;
+  align-items: center;
+  float: left;
+}
+
+
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.ImageOfMe{
+  height: 200px;
+  width: 200px;
+  float: left;
+}
