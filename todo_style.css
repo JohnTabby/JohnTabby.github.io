@@ -1,0 +1,8 @@
+.main-flexbox{
+  display: flex;
+  width: 1250px;
+  flex-direction: column;
+  background-color: cyan;
+  float: left;  
+  align-items: center;
+}
